@@ -1,2 +1,4 @@
 # Fractales
-gráficas de fractales e información de los mismos
+Breve introduccion a la graficacion de fractales en python
+
+## Mandelbrot set

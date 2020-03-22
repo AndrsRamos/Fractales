@@ -16,7 +16,7 @@ def mandelbrot(c):
     for i in range(50):
         z = z*z + c 
         if abs(z)>2:
-            return 0
+            return i
     return 1
 
 inicio=t.time()
